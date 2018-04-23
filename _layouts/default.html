@@ -6,6 +6,27 @@
     <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
   </head>
   <body>
-    {{ content }}
+    <header>
+      <div id="siteTitle">
+        <h1><a href="{{ site.url }}">{{ site.name }}</a></h1>
+      </div>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="{{ site.url }}">Home</a></li>
+        <li>Water</li>
+        <li>Soil</li>
+        <li>Research</li>
+        <li>Shop</li>
+        <li>Blog</li>
+      </ul>
+    </nav>
+    <article>
+      <h1>{{ page.title }}</h1>
+      {{ content }}
+    </article>
+    <footer>
+      Contact, etc
+    </footer>
   </body>
 </html>

@@ -3,4 +3,14 @@ title: Partners
 layout: default
 ---
 
-Partners page
+### Akvo
+
+
+### N/Core
+
+
+### Social Alpha
+
+### ICRISAT
+
+### Easy Krishi

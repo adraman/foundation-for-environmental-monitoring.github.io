@@ -2,5 +2,8 @@
 title: Advisors
 layout: default
 ---
+### Thomas Bjelkeman-Petterson
 
-Advisors page
+### Dr. Parama Pal
+
+### Krishanu Seal

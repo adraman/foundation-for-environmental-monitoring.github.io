@@ -1,6 +1,6 @@
 ---
-title: Services
+title: Team
 layout: default
 ---
 
-Services
+Team page

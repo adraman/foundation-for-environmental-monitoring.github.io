@@ -25,6 +25,20 @@ header a:link, a:visited, a:hover, a:active {
 	text-decoration: none;
 }
 
+article table td {
+	padding: 0.5em;
+	margin: 0;
+	border: 1px solid #444;
+}
+
+
+article table th {
+	padding: 0.5em;
+	margin: 0;
+	border: 1px solid #444;
+	font-weight: bold;
+}
+
 /* Menus */
 #primary_nav_wrap
 {

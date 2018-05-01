@@ -1,5 +1,5 @@
 ---
-permalink: /water
+permalink: /water/
 title: Water
 layout: default
 ---

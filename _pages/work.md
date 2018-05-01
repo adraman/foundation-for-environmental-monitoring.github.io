@@ -1,5 +1,5 @@
 ---
-permalink: /work
+permalink: /work/
 title: Work with us
 layout: default
 ---

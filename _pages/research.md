@@ -1,5 +1,5 @@
 ---
-permalink: /research
+permalink: /research/
 title: FFEM
 layout: default
 ---

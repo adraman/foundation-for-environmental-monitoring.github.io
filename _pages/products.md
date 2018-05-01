@@ -1,5 +1,5 @@
 ---
-permalink: products
+permalink: /products/
 title: Products
 layout: default
 ---

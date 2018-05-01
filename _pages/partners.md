@@ -1,4 +1,5 @@
 ---
+permalink: /partners/
 title: Partners
 layout: default
 ---

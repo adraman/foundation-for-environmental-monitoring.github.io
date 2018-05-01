@@ -1,4 +1,5 @@
 ---
+permalink: /soil
 title: Soil
 layout: default
 ---

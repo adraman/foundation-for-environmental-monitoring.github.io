@@ -1,4 +1,5 @@
 ---
+permalink: /team
 title: Team
 layout: default
 ---

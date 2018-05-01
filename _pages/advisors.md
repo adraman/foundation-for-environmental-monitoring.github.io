@@ -1,4 +1,5 @@
 ---
+permalink: /advisors
 title: Advisors
 layout: default
 ---

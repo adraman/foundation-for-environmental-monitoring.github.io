@@ -1,4 +1,5 @@
 ---
+permalink: /services
 title: Services
 layout: default
 ---

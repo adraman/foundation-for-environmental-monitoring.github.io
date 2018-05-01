@@ -1,4 +1,5 @@
 ---
+permalink: /shop
 title: FFEM
 layout: default
 ---

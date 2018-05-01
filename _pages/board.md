@@ -1,4 +1,5 @@
 ---
+permalink: /board
 title: Board
 layout: default
 ---

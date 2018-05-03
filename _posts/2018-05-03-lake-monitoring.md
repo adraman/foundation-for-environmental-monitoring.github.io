@@ -7,7 +7,9 @@ layout: posts
 The lakes in and around cities serve as the site for many functions: for citizens, for flora, fauna and for the water and waste management systems of the urban environment. In cities such as Bangalore, chemical, pharmaceutical and manufacturing industries discharge their effluent waste and wastewater into lakes. Lakes are becoming waste repositories for cities.
 
 In monsoon, inflammable froth is sometimes found floating above the water surface of freshwater urban lakes. Bellandur lake is one example, where heavy metal contamination has led to a toxic froth, which is a health hazard for people, plants and animals around it. The froth has reportedly caused itching, burning sensations, skin and eye irritation and respiratory problems.
-![My helpful screenshot]({ " /images/Screenshot-2018-5-2 (40) Lake monitoring with Caddisfly - YouTube.jpg  })
+
+![Image]( {{foundation-for-environmental-monitoring.github.io/images/Screenshot-2018-5-2 (40) Lake monitoring with Caddisfly - YouTube.jpg }})
+
 Contaminated water in lakes percolates through the lake bed and mixes with underground water aquifers, contaminating these sources in time. Heavy metals like Chromium and Lead are being detected in tests of groundwater from sources around lakes. In 2016, interns working with the Caddisfly team tested groundwater around some of the lakes in Bangalore and found unsafe concentrations of chromium (VI). Such contamination does not produce a distinctive taste or smell in the water and can be consumed by unsuspecting people, animals and birds. High concentrations of Nitrates, Phosphates and sudden changes in pH were also noticed, which can explain the rampant eutrophication seen.
 
 It is imperative to monitor water quality parameters regularly to support lake maintenance activities and measure the impact of human activities on lake ecosystems. Testing can be used to inform decision making with regards to clean-up operations, water flow regulation, and even to surveil suspected contaminating industries.

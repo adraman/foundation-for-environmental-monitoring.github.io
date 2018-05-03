@@ -1,3 +1,9 @@
+---
+title: Caddisfly for Lake Monitoring
+date: 2018-05-03
+layout: posts
+---
+
 The lakes in and around cities serve as the site for many functions: for citizens, for flora, fauna and for the water and waste management systems of the urban environment. In cities such as Bangalore, chemical, pharmaceutical and manufacturing industries discharge their effluent waste and wastewater into lakes. Lakes are becoming waste repositories for cities.
 
 In monsoon, inflammable froth is sometimes found floating above the water surface of freshwater urban lakes. Bellandur lake is one example, where heavy metal contamination has led to a toxic froth, which is a health hazard for people, plants and animals around it. The froth has reportedly caused itching, burning sensations, skin and eye irritation and respiratory problems.

@@ -48,13 +48,11 @@ header {
 	overflow: hidden;
 }
 
-nav {
-
-}
-
 #headerNav {
 	float: left;
 	width: 30%;
 }
 
-
+img {
+  max-width: 100%;
+}

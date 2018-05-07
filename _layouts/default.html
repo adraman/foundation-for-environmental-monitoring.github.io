@@ -9,9 +9,13 @@
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
         crossorigin="anonymous"></script>
       <script type="text/javascript">
-        var u = "{{ page.url }}";
+        var u = "{{ site.url }}{{ page.url }}";
         $(document).ready(function(){
-          
+          $("nav a").each(function(index){
+            if($(this).attr("href") == u){
+              $(this).addClass("active");
+            }
+          });
         });
       </script>
   </head>

@@ -1,19 +1,41 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-size: 1em;
+  margin: 0;
+  padding: 0;
 }
 
 article {
-	float: left;
-	width: 69%;
+  margin-left: 30%;
+}
+
+article h2 {
+  padding: 20px;
+  border-bottom: 4px solid #cd6a00;
+}
+
+article h3 {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+article p {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 footer {
 	clear: both;
 	padding: 1em 0 1em 0;
 	font-size: 0.7em;
-	border-top: 1px solid #aaa;
-	border-bottom: 1px solid #aaa;
+	border-top: 1px solid #cd6a00;
+	border-bottom: 1px solid #cd6a00;
+  margin-left: 30%;
+}
+
+footer p {
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 a:link, a:visited, a:hover, a:active {
@@ -26,7 +48,8 @@ a.active:link, a.active:visited, a.active:hover, a.active:active {
 	text-decoration: underline;
 }
 
-header a:link, a:visited, a:hover, a:active {
+header a:link, header a:visited, header a:hover, header a:active {
+  color: #fff;
 	text-decoration: none;
 }
 
@@ -51,11 +74,42 @@ article table th {
 
 header {
 	overflow: hidden;
+  margin: 10px 10px;
+}
+
+header h1 {
+  text-transform: lowercase;
+  font-size: 1.5em;
+}
+
+nav a:link {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:visited {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:active {
+  color: #fff;
+  text-decoration: none;
 }
 
 #headerNav {
-	float: left;
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
 	width: 30%;
+  min-width: 120px;
+  background-color: #cd6a00;
 }
 
 img {

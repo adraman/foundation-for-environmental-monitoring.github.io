@@ -1,6 +1,7 @@
 ---
 title: Caddisfly for Lake Monitoring
 date: 2018-05-03
+author: Ishan Gupta
 layout: posts
 ---
 

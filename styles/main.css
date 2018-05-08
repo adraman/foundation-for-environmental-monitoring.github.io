@@ -7,11 +7,13 @@ body {
 
 article {
   margin-left: 30%;
+  min-width: 600px;
 }
 
 article h2 {
   padding: 20px;
   border-bottom: 4px solid #cd6a00;
+  font-size: 3em;
 }
 
 article h3 {
@@ -80,6 +82,7 @@ header {
 header h1 {
   text-transform: lowercase;
   font-size: 1.5em;
+  font-weight: normal;
 }
 
 nav a:link {
@@ -108,7 +111,7 @@ nav a:active {
   left: 0;
   height: 100%;
 	width: 30%;
-  min-width: 120px;
+  min-width: 200px;
   background-color: #cd6a00;
 }
 

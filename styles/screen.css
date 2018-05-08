@@ -14,11 +14,13 @@ article h2 {
   padding: 20px;
   border-bottom: 4px solid #cd6a00;
   font-size: 3em;
+  font-weight: normal;
 }
 
 article h3 {
   padding-left: 20px;
   padding-right: 20px;
+  font-weight: normal;
 }
 
 article p {

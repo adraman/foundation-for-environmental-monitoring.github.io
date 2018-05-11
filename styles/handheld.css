@@ -11,7 +11,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 header {
-  background-color: #cd6a00;
+  background-color: #fff;
   padding: 10px;
 }
 
@@ -27,7 +27,7 @@ header h1 {
 
 header a:link, header a:visited, header a:hover, header a:active {
   text-decoration: none;
-  color: #fff;
+  color: #444;
 }
 
 article {

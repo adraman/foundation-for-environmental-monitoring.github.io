@@ -4,14 +4,18 @@ title: Partners
 layout: default
 ---
 
-### Akvo
+<a href="http://akvo.org">![Akvo]({{ site.url }}/assets/images/Akvo_RGB_logo.png)</a>
 
+Empowered by
+
+<a href="http://socialalpha.in">![Empowered by Social Alpha]({{ site.url }}/assets/images/social_alpha.png)</a>
+
+Soil Technology Incubated by
+
+<a href="http://icrisat.org">![ICRISAT]({{ site.url }}/assets/images/icrisat-logo.png)</a>
 
 ### N/Core
 
 
-### Social Alpha
-
-### ICRISAT
 
 ### Easy Krishi

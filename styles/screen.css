@@ -127,3 +127,10 @@ nav ul {
 img {
   max-width: 100%;
 }
+
+img.teamImage {
+  clear: both;
+  float: left;
+  width: 300px;
+  margin: 10px;
+}

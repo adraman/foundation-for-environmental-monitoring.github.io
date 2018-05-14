@@ -14,6 +14,7 @@ Nischal is a software developer who developed the smartphone app, web sites and 
 Pradeep is a chemist on the Caddisfly team. He joined Akvo through his work at TernUp Research labs. Prior to this, he was involved in projects included the development of filters for the removal of fluoride, arsenic and microbial contamination from drinking water. Pradeep is an inventor who has filed two patents and authored two research papers.
 
 ### Rajshree Patil
+<img src="{{ site.url }}/assets/images/rajshree_patil.jpg" alt="Rajshree Patil" class="teamImage">
 Rajshree is a senior research scientist in the Caddisfly team. She is PhD in Microbiology from the University of Mumbai and has 10 years of professional experience in the field. In the Caddisfly team she is mainly leading projects on developing platform for rapid detection of bacterial pathogens using different software applications. Prior to Caddisfly, she was working with TCS-Innovation lab-TRDDC, Pune for almost 7 years. At TCS-Innovation centre she has actively involved in water purification R&D which includes the development of the Tata Swach Nanotech water purifier and different low cost water purification solutions for household purposes for removing microbial contaminants from drinking water. She has filed six patents and published 8 papers in the field of Microbiology.
 
 ### Samuel Rajkumar

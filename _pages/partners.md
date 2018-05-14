@@ -18,4 +18,3 @@ Incubated by
 
 <a href="http://ncore.thenudge.com">![N/Core]({{ site.url }}/assets/images/ncore.png)</a>
 
-### Easy Krishi

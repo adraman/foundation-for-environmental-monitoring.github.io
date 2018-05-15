@@ -13,6 +13,7 @@ a:link, a:visited, a:hover, a:active {
 header {
   background-color: #fff;
   padding: 10px;
+  width: 40%;
 }
 
 header img {
@@ -30,7 +31,14 @@ header a:link, header a:visited, header a:hover, header a:active {
   color: #444;
 }
 
+nav {
+  float: right;
+  width: 50%;
+  margin-top: -280px;
+}
+
 article {
+  clear: both;
   padding: 10px;
 }
 
@@ -50,4 +58,10 @@ footer {
   font-size: 0.8em;
   border-top: 1px solid #cd6a00;
   padding: 10px;
+}
+
+img.teamImage {
+  max-width: 300px;
+  float: left;
+  margin: 10px;
 }

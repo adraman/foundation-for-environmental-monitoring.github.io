@@ -47,8 +47,8 @@ a:link, a:visited, a:hover, a:active {
 }
 
 a.active:link, a.active:visited, a.active:hover, a.active:active {
-	color: #a00;
-	text-decoration: underline;
+	color: #df8100;
+	text-decoration: none;
 }
 
 header a:link, header a:visited, header a:hover, header a:active {
@@ -97,8 +97,8 @@ nav a:visited {
 }
 
 nav a:hover {
-  color: #000;
-  text-decoration: underline;
+  color: #df8100;
+  text-decoration: none;
 }
 
 nav a:active {

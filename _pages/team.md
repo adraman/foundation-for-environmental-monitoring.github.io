@@ -23,7 +23,7 @@ The major part of her career is associated with TCS-Innovation lab-TRDDC, Pune w
 Samuel Rajkumar is a product development manager. In this role, he oversees the development of the Caddisfly water testing kit. Sam co founded Ternup in 2012, where Caddisfly was created as part of an open source project to develop a low cost water testing kit.
 
 ### Saurabh Levin
-Saurabh is a product designer on the Caddisfly team. He was involved in developing the Caddisfly water testing kit since its inception in late 2011; his college diploma project was an early prototype of Caddisfly.
+Saurabh is a product designer on the Caddisfly team. He graduated from the Srishti School of Art, Design & Technology with a Diploma in Interdisciplinary Art and Design in December 2012. He works with a DIY methodology on open-source hardware projects from low-cost environmental sensors to synthesizers and other musical instruments. He was involved in developing the Caddisfly water testing kit since its inception in late 2011; his college diploma project was an early prototype of Caddisfly. 
 
 ### Sushant Bamane
 <img src="{{ site.url }}/assets/images/sushant_bamane.jpg" alt="Sushant Bamane" class="teamImage">Sushant is a senior researcher at Foundation for Environmental Monitoring (FFEM). He is M. Sc. in Organic Chemistry and has 8 years of research experience. In FFEM, he is involved in soil and water test kit development and its validation, which works on smartphone based applications. Prior to joining FFEM, he was working with Akvo Foundation, Netherlands, as a senior researcher on developing water and soil tests using commercial strips and smartphone application.

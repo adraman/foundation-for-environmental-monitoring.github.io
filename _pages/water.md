@@ -6,6 +6,8 @@ layout: default
 
 The ffem Water test kit can be used for testing drinking water and also for monitoring water in lakes and rivers. The current parameters are listed below. Consumables are available in boxes of 10, 20 and 50 per parameter.
 
+The range can be extended by dilutions, the app provides dilutions upto 5 times.
+
 
 ### Drinking water parameters
 <table>
@@ -54,9 +56,14 @@ The ffem Water test kit can be used for testing drinking water and also for moni
 		<td>0 to 3 mg/l</td>
     <td>15</td>
 	</tr>
+	<tr>
+		<td>Sulphate</td>
+		<td>0 to 3 mg/l</td>
+    <td>15</td>
+	</tr>
 </table>
 
-Upcoming parameters: Manganese, Alkilinity, Zinc
+Upcoming parameters: Calcium, Magnesium, Chlorides, Manganese, Alkilinity, Zinc
 
 ### Lake and river water paramters
 <table>

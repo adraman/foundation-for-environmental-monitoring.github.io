@@ -11,7 +11,10 @@ Ishan is a product designer on the Caddisfly team. Prior to Caddisfly he has wor
 Nischal is a software developer who developed the smartphone app, web sites and maps for the Akvo Caddisfly water testing kit. His experience spans e-commerce, finance, customer management, i18n, web sites and phone apps.
 
 ### Pradeep Balkunde
-Pradeep is a chemist on the Caddisfly team. He joined Akvo through his work at TernUp Research labs. Prior to this, he was involved in projects included the development of filters for the removal of fluoride, arsenic and microbial contamination from drinking water. Pradeep is an inventor who has filed two patents and authored two research papers.
+Pradeep is a researcher in the Foundation For Environmental Monitoring (FFEM). He did M.Sc.(Chemistry) from Savitribai Phule University Pune University. He has 7 years experience in the field of water treatment and water quality analysis. Currently he is working on development of smartphone based water testing kit for field use. Prior to joining FFEM, he was working with Akvo Foundation, Bangalore. In Akvo Foundation he was working on development of smartphone based water testing kit for chromium in collaboration with IIT Kanpur. While working with Akvo Foundation he worked on a pilot study of smartphone based water testing kit for fluoride analysis in Africa.
+
+Before joining Akvo Foundation, he was involved in the development of household water filters for removing chemical and microbial contamination from drinking water. He has filed 3 patents and published four research papers in the field of water treatment and water quality analysis.
+
 
 ### Rajshree Patil
 <img src="{{ site.url }}/assets/images/rajshree_patil.jpg" alt="Rajshree Patil" class="teamImage">

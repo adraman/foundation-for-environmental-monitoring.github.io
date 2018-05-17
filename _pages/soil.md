@@ -6,7 +6,7 @@ layout: default
 
 Soil tests are designed to be performed on the field. In principle, soil tests are very similar to water tests and an extraction solution is used.
 
-### Soil paramters
+### Soil parameters
 <table>
 	<tr>
 		<th>Parameter</th>

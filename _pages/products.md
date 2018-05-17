@@ -4,10 +4,22 @@ title: Products
 layout: default
 ---
 
-Current ffem products are designed for field use and work with Android smartphones. The products make it simple to perform colorimetric tests by simplifying measuring samples, mixing reagents and performing a colour comparison.
+ffem test devices are [open source](http://github.com/foundation-for-environmental-monitoring). They are designed for field use. Typically, ffem tests cost much less than a laboratory test, while they are a lot more precise than a field test kit.
 
-Products are in constant development. New parameters and new features are continually added.
+### ffem Water
+A water testing kit with drinking water, and lake and river water monitoring parameters.
 
-ffem had developed a [water testing product](water) designed for field testing drinking water, and monitoring lake and river water.
+[Complete listing of water quality test kits and parameters.]({{ site.url }}/water/)
 
-Soil testing is necessary for crop management. ffem's [soil testing product](soil) covers several important soil health paramters.
+### ffem Soil
+Soil test kit for soil macronutrients NPK and pH.
+
+[Complete listing of soil test kits and parameters.]({{ site.url }}/soil/)
+
+### Working principle
+Current test devices are based on colorimetry. The kits use the camera and flash of a smartphone to detect a colour change created by certain specific reagents. The colour change is compared to a series of calibrated colours and a suitably interpolated result is displayed.
+
+The test method for Fluoride was published in a peer reviewed journal [Link](https://www.sciencedirect.com/science/article/pii/S0048969716301553) [PDF](https://www.sciencedirect.com/science/article/pii/S0048969716301553/pdfft?md5=856d76c66ddd9f37e23c10ae0f159e92&pid=1-s2.0-S0048969716301553-main.pdf). All other tests work on the same principle.
+
+### Caddisfly
+The product may sometimes be referred to as Caddisfly, ffem Caddisfly, ffem Water or ffem soil.

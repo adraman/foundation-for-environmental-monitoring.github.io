@@ -34,3 +34,5 @@ Soil tests are designed to be performed on the field. In principle, soil tests a
     <td>5</td>
 	</tr>
 </table>
+
+Upcoming parameters: Boron, Sulphate

@@ -54,8 +54,9 @@ The ffem Water test kit can be used for testing drinking water and also for moni
 		<td>0 to 3 mg/l</td>
     <td>15</td>
 	</tr>
-
 </table>
+
+Upcoming parameters: Manganese, Alkilinity, Zinc
 
 ### Lake and river water paramters
 <table>

@@ -6,6 +6,8 @@ layout: default
 
 ffem offers you a chance to work on simple solutions to complex problems that could help positively impact the lives of large numbers of people.
 
+At FFEM, we firmly believe in promoting equal rights. We are committed to providing an open work environment where every employee is treated respectfully and afforded equitable treatment. As an employee, we hope you will be able to take up this responsibility as well.
+
 All previous job postings are [listed here]({{ site.url }}/previous_postings/).
 
 ### Current Vacancies
@@ -48,10 +50,6 @@ INR 15,000 per month
 **Other notes**
 Female candidates are encouraged to apply for this job.
 
-At FFEM, we firmly believe in promoting equal rights. We are committed to providing an open
-work environment where every employee is treated respectfully and afforded equitable
-treatment. As an employee, we hope you will be able to take up this responsibility as well.
-
 ***
 <a name="android_developer"></a>
 
@@ -79,10 +77,6 @@ Specialization - Computers, Software development
 * Experience in Android UI automation tools (e.g. UIautomator, Robotium, Espresso)
 * Good documentation, communication and collaboration skills
 * At least one published app
-
-At FFEM, we firmly believe in promoting equal rights. We are committed to providing an open
-work environment where every employee is treated respectfully and afforded equitable
-treatment. As an employee, we hope you will be able to take up this responsibility as well.
 
 ***
 <a name="interning"></a>

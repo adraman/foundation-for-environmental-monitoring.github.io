@@ -65,7 +65,7 @@ The range can be extended by dilutions, the app provides dilutions upto 5 times.
 
 Upcoming parameters: Calcium, Magnesium, Chlorides, Manganese, Alkilinity, Zinc
 
-### Lake and river water paramters
+### Lake and river water parameters
 <table>
 	<tr>
 		<th>Parameter</th>

@@ -57,7 +57,10 @@
       </div>
       <article>
           <h2>{{ page.title }}</h2>
+          <p>Posted by <strong>{{ page.author }}</strong> on <em>{{ page.date }}</em></p>
+          <p><a href="{{ site.url }}/blog/">All blog posts</a></p>
           {{ content }}
+          <p><a href="{{ site.url }}/blog/">All blog posts</a></p>
       </article>
       <footer>
           <div id="terms">

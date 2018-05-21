@@ -7,8 +7,8 @@ layout: default
 ### Ishan Gupta
 Ishan is a product designer on the Caddisfly team. Prior to Caddisfly he has worked on projects ranging from an Android application for crowd-sourced data-gathering relating to civic infrastructure issues, to designing watchfaces for Titan.
 
-### Nischal Halery
-Nischal is a software developer who developed the smartphone app, web sites and maps for the Akvo Caddisfly water testing kit. His experience spans e-commerce, finance, customer management, i18n, web sites and phone apps.
+### Nischal
+Nischal is a software developer. His experience spans e-commerce, finance, customer management, i18n, web sites and phone apps. He has a Bachelor of Commerce degree and a Graduate Diploma in Commercial Computing.  Nischal developed software and lead development teams in various organisations. He was involved in developing the Caddisfly water testing kit since its inception in late 2011.
 
 ### Pradeep Balkunde
 Pradeep is a chemist on the Caddisfly team. He joined Akvo through his work at TernUp Research labs. Prior to this, he was involved in projects included the development of filters for the removal of fluoride, arsenic and microbial contamination from drinking water. Pradeep is an inventor who has filed two patents and authored two research papers.

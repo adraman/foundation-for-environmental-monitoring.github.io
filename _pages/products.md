@@ -3,6 +3,8 @@ permalink: /products/
 title: Products
 layout: default
 ---
+<img src="{{ site.url }}/assets/images/FieldTesting6A.jpg" alt="Field testing in Assam">
+_Field testing for Fluoride, Arsenic and Total Iron at Nalbari, Assam. Image courtesy, Ishan Gupta_
 
 ffem test devices are [open source](http://github.com/foundation-for-environmental-monitoring). They are designed for field use. Typically, ffem tests cost much less than a laboratory test, while they are a lot more precise than a field test kit.
 

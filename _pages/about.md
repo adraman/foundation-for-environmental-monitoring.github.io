@@ -4,6 +4,9 @@ title: About FFEM
 layout: default
 ---
 
+<img src="{{ site.url }}/assets/images/FieldTesting7.jpg" alt="About ffem">
+_Field testing in Assam, May 2018. Image courtesy: Ishan Gupta_
+
 ### Legal Structure
 ffem is a nonprofit ([section 8](https://en.wikipedia.org/wiki/Non-profit_laws_of_India#Section-8_Company)) company based in Bangalore, India.
 

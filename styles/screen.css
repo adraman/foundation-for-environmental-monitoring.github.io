@@ -126,7 +126,7 @@ nav ul {
   top: 0;
   left: 0;
   height: auto !important;
-  overflow: scroll;
+  overflow: auto;
   min-height: 500px;
 	width: 20%;
   min-width: 200px;

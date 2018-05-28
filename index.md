@@ -1,6 +1,6 @@
 ---
-title: FFEM
-layout: default
+title: ffem
+layout: home
 ---
 
 ![FFEM]({{ site.url }}/assets/images/CoverImage-01-01.jpg)

@@ -24,24 +24,24 @@ Soil tests require that you have a base kit. Consumables vary for each parameter
 
 <a name="ph"></a>
 ### pH
-_Range:_ xx
-_Cost per test:_ INR xx
+_Range:_ xx<br>
+_Cost per test:_ INR xx<br>
 
 <a name="nitrogen"></a>
 ### Available Nitrogen
-_Range:_ xx
-_Cost per test:_ INR xx
+_Range:_ xx<br>
+_Cost per test:_ INR xx<br>
 
 <a name="phosphorous"></a>
 ### Available Phosphorous
-_Range:_ xx
-_Cost per test:_ INR xx
+_Range:_ xx<br>
+_Cost per test:_ INR xx<br>
 
 
 <a name="pitassium"></a>
 ### Available Potassium
-_Range:_ xx
-_Cost per test:_ INR xx
+_Range:_ xx<br>
+_Cost per test:_ INR xx<br>
 
 
 

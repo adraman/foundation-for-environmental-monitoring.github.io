@@ -37,51 +37,53 @@ Fluoride in drinking water is a health hazard in several parts of the world, and
 
 <a name="nitrate"></a>
 ### Nitrate
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 Nitrate tests are conducted with two solid reagents. Permissable limits in India is upto 40ppm.
 
 <a name="phosphate"></a>
 ### Phosphate
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 
 <a name="copper"></a>
 ### Copper
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="aluminum"></a>
 ### Aluminum
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="arsenic_iii"></a>
 ### Arsenic III
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="chromium_vi"></a>
 ### Chromium VI
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="chloride"></a>
 ### Chloride
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="sulphate"></a>
 ### Sulphate
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="dissolved_oxygen"></a>
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+### Dissolved Oxygen
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 
 <a name="chlorophyll_a"></a>
-_Range:_ 0ppm to 100ppm
-_Cost per test:_ INR 20
+### Chlorophyll A
+_Range:_ 0ppm to 100ppm<br>
+_Cost per test:_ INR 20<br>
 

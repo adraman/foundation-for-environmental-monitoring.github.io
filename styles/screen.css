@@ -122,6 +122,10 @@ nav ul {
   padding: 0;
 }
 
+nav #menuIcon {
+  display: none;
+}
+
 #headerNav {
   position: fixed;
   top: 0;

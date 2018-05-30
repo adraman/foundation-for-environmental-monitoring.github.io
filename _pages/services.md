@@ -18,4 +18,4 @@ Water and soil test reports will be delivered by email.
 ffem will conduct field testing over on your behalf using its field test kit. Prices of field testing depend on the number of parameters, number of tests, location of the sites, etc. [Contact us]({{ site.url }}/contact/) with your requirements for a quote.
 
 ### Research / Product development
-ffem provides research and product development services in the area of environmental monitoring. The [core team]({{ site.url }}/team/) is experienced in turning research concepts into usable products. Pricing will bepend on the prodict developed, a qoote can be obtained after you [contact us]({{ site.url }}/contact/) with your requirements.
+ffem provides research and product development services in the area of environmental monitoring. The [core team]({{ site.url }}/team/) is experienced in turning research concepts into usable products. Pricing will depend on the prodict developed, a qoote can be obtained after you [contact us]({{ site.url }}/contact/) with your requirements.

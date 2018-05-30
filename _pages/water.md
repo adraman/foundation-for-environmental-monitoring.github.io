@@ -1,6 +1,6 @@
 ---
 permalink: /water/
-title: Water
+title: Water Testing
 layout: default
 ---
 
@@ -22,6 +22,8 @@ The ffem Water test kit are designed for testing drinking water and also for mon
 * [Chlorophyll A](#chlorophyll_a)
 
 All tests work with the same base kit, with different consumables for each parameter. Tests are based on colorimetry, and the principle has been described in this paper: [Monitoring of fluoride in water samples using a smartphone](https://www.sciencedirect.com/science/article/pii/S0048969716301553). You can test for concentrations well above the limits mentioned in the ranges below, by diluting the sample with distilled or dionised water. The app allows for upto 5 times dilution. These dilutions do increase the error in a sample measurement.
+
+ffem also offers [water testing services]({{ site.url }}/services/).
 
 <a name="ph"></a>
 ### pH

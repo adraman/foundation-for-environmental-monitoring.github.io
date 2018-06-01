@@ -12,6 +12,8 @@ article {
 
 article h2 {
   padding: 20px;
+  padding-top: 0;
+  margin-top: 37px;
   font-size: 3em;
   font-weight: normal;
   text-transform: lowercase;

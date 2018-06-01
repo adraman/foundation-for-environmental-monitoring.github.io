@@ -16,5 +16,7 @@ ffem has developed a proof-of-concept device that detects coliforms or fecal col
 
 ffem is also working on a 1 to 2 hour test for coliforms and fecal coliforms. This test will rely on convolutional neural networks to detect specific bacteria. Currently this test has a laboratory prototype.
 
-### Soil Micronutrients
+### Soil Nutrients
+Research is underway to add secondary nutrients - Sulphur (S), Calcium (Ca), Magnesium (Mg), and minor nutrients - Iron (Fe), Manganese (Mn), Copper (Cu), Zinc (Zn), Molybdenum (Mo),
+Boron (B), Chlorine (Cl), to the soil test kit.
 

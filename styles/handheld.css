@@ -53,6 +53,7 @@ article img {
 
 article h2 {
   font-weight: normal;
+  text-transform: lowercase;
 }
 
 article h3 {

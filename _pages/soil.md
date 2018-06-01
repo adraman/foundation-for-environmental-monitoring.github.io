@@ -25,21 +25,21 @@ Boron (B), Chlorine (Cl)
 Currently the following tests can be performed with a ffem soil test kit
 
 <a name="ph"></a>
-#### pH
+### pH
 _Range:_ - 4-10<br>
 _Cost Per test:_ Rs. 10
 
 <a name="nitrogen"></a>
-#### Available Nitrogen
+### Available Nitrogen
 _Range:_ 0 mg/kg – 40 mg/kg (Can be extended to 400 mg/kg by dilution)<br>
 _Cost Per test:_ Rs. 25
 
 <a name="phosphorous"></a>
-#### Available Phosphorous
+### Available Phosphorous
 _Range:_ 0 mg/kg – 25 mg/kg (Can be extended to 250 mg/kg by dilution)<br>
 _Cost Per test:_ Rs. 25
 
 <a name="potassium"></a>
-#### Available Potassium
+### Available Potassium
 _Range:_  0 mg/kg – 40 mg/kg (Can be extended to 400 mg/kg by dilution)<br>
 _Cost per test:_  Rs. 25

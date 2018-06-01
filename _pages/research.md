@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-title: FFEM
+title: Current Research at ffem
 layout: default
 ---
 

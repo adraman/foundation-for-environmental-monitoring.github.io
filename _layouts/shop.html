@@ -13,7 +13,23 @@
       <script type="text/javascript">
         $(document).ready(function(){
           $("#shop").show();
+          show_panel($('#jq_product_type').val());
+
+          function show_panel(option_id) {
+            console.log(option_id);
+            // Hide panels first
+            $('#parameters_water').hide();
+            $('#parameters_soil').hide();
+            if(option_id == 1) {
+              $('#parameters_water').show();
+            }
+            if(option_id == 2) {
+              $('#parameters_soil').show();
+            }
+          }
         });
+
+
       </script>
       <script type="text/javascript">
         var u = "{{ site.url }}{{ page.url }}";

@@ -4,11 +4,17 @@
     <title>{{ page.title }} | {{ site.name }}</title>
       <link rel="stylesheet" href="{{ site.url }}/styles/screen.css" media="screen and (min-width: 1000px)">
       <link rel="stylesheet" href="{{ site.url }}/styles/handheld.css" media="screen and (min-width: 400px) and (max-width: 1000px)">
+      <link rel="stylesheet" href="{{ site.url }}/styles/shop.css" media="all">
       <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,700" rel="stylesheet">
       <script
         src="https://code.jquery.com/jquery-3.3.1.min.js"
         integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
         crossorigin="anonymous"></script>
+      <script type="text/javascript">
+        $(document).ready(function(){
+          $("#shop").show();
+        });
+      </script>
       <script type="text/javascript">
         var u = "{{ site.url }}{{ page.url }}";
         $(document).ready(function(){
@@ -56,9 +62,10 @@
         </nav>
       </div>
       <article>
-        <h1>{{ site.name }}</h1>
           <h2>{{ page.title }}</h2>
-          {{ content }}
+          <div id="shop">
+            {{ content }}
+          </div>
       </article>
       <footer>
           <div id="terms">

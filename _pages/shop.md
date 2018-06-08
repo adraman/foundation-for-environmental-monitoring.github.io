@@ -1,7 +1,7 @@
 ---
 permalink: /shop/
 title: FFEM
-layout: default
+layout: shop
 ---
 
 Select products

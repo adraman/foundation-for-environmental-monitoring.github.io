@@ -4,7 +4,7 @@ date: 2018-08-01
 author: Samuel Rajkumar
 layout: posts
 ---
-[Bubble Nut Wash](http://bubblenutwash.com/) is a social enterprise based out of Bangalore. The make environment-friendly soaps and detergents from [soapnuts](https://en.wikipedia.org/wiki/Sapindus). When Manas, the cofounder, asked if our kit could test for Hydrogen Peroxide, I was tempted to say no. I am glad I did not, because what followed turned out to be a textbook example of how to add a new parameter to the [ffem water test kit]({{ site.url }}/water/).
+[Bubble Nut Wash](http://bubblenutwash.com/) is a social enterprise based out of Bangalore. They make environment-friendly soaps and detergents from [soapnuts](https://en.wikipedia.org/wiki/Sapindus). When Manas, the cofounder, asked if our kit could test for Hydrogen Peroxide, I was tempted to say no. I am glad I did not, because what followed turned out to be a textbook example of how to add a new parameter to the [ffem water test kit]({{ site.url }}/water/).
 
 <a href="http://bubblenutwash.com"><img src="{{ site.url }}/assets/images/bubblenutwash_logo.png" alt="Bubble Nut Wash"></a>
 

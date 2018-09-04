@@ -1,6 +1,6 @@
 ---
 title: Adding a new test to the suite
-date: 2018-08-01
+date: 2018-09-04
 author: Samuel Rajkumar
 layout: posts
 ---
